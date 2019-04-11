@@ -1,3 +1,12 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+
+## Getting started
+
+1. Fork
+1. Create a feature branch
+1. Clone
+1. Pull Request
+
 # Rails: The CUD of CRUD
 
 ### Learning Objectives
@@ -8,7 +17,7 @@
 
 ## Setting up our rails app
 
-Fork and clone this repo and follow these steps:
+Follow these steps:
 - cd into `CatApp`
 - run `bundle install`
 - run `rails db:create`
